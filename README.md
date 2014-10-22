@@ -14,3 +14,17 @@ Usage
 
     python define.py usage
     python define.py a hot potato
+
+
+Depencies
+---------
+* webkit
+* gtk
+* bs4 (beautifulsoup4)
+
+
+Installation
+------------
+
+    sudo ln -s `pwd`/define.py /usr/bin/def
+
