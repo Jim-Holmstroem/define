@@ -27,4 +27,7 @@ Installation
 ------------
 
     sudo ln -s `pwd`/define.py /usr/bin/def
-
+    # then it's possible to
+    def usage
+    def a hot potato
+    # great with dmenu
